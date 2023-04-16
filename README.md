@@ -12,7 +12,7 @@ I made this "basic" moderation bot on Python for Discord.
 
 4. Userinfo.
 
-5. Get the avatar of an user (except if it is an animated avatar).
+5. Get a user's avatar (except if it is an animated avatar).
 
 (You can always use y!help for more information).
 
