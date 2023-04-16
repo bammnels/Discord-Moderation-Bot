@@ -18,7 +18,6 @@ I made this "basic" moderation bot on Python for Discord.
 
 # Important
 
-This bot have the MIT License, and was made with Python 3.6.8. You can download any version of Python here: https://www.python.org/
-The bot's prefix is y!, but you can change it anytime.
+This bot have the MIT License. Also, this was made with Python 3.6.8 and you can download any version of Python here: https://www.python.org/. The bot's prefix is y!, but you can change it anytime.
 
 # Thank you, and hope this can help you somehow!
