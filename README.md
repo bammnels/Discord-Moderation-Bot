@@ -4,16 +4,13 @@ I made this "basic" moderation bot on Python for Discord.
 
 # What the bot can do?
 
-1. Ban/Unban
-Optional: You can give a reason for ban.
+1. Ban/Unban. (Optional: You can give a reason for ban).
 
-2. Kick
-Optional: You can give a reason for kick.
+2. Kick. (Optional: You can give a reason for kick).
 
-3. Mute/Unmute
-Optional: You can give a reason for mute.
+3. Mute/Unmute. (Optional: You can give a reason for mute).
 
-4. Userinfo
+4. Userinfo.
 
 5. Get the avatar of an user (except if it is an animated avatar).
 
